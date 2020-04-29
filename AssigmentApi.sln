@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssigmentApi", "AssigmentApi\AssigmentApi.csproj", "{4EB8D2EF-946C-4E2E-B533-965E62EA326A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EB8D2EF-946C-4E2E-B533-965E62EA326A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EB8D2EF-946C-4E2E-B533-965E62EA326A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EB8D2EF-946C-4E2E-B533-965E62EA326A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EB8D2EF-946C-4E2E-B533-965E62EA326A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24D7290-A995-4850-8208-2CCC56E9A351}
+	EndGlobalSection
+EndGlobal
